@@ -1,4 +1,4 @@
 # myfirstrepo
 #
 #
-# testing 123
+# interested in SLAM - Looking forward to the course
